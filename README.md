@@ -1,2 +1,2 @@
-~/.local/share/aurorae/themes/
+~/.local/share/aurorae/themes/  and  
 ~/.local/share/plasma/desktoptheme/
